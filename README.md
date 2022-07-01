@@ -1,9 +1,9 @@
 **![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong%20Ji&animation=fadeIn&fontSize=100)**
 
 ## 🛠️Tech Stack🛠️
-
+<img src="https://img.shields.io/badge/JacaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
-### Hi there 👋
+
 
 <!--
 **Yugyeong-Ji/Yugyeong-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
