@@ -1,4 +1,6 @@
 **![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong%20Ji&animation=fadeIn&fontSize=100)**
+
+https://img.shields.io/github/followers/Yugyeong-Ji?style=social
 ### Hi there 👋
 
 <!--
