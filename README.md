@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
 
