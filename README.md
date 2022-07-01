@@ -1,7 +1,8 @@
 **![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong%20Ji&animation=fadeIn&fontSize=100)**
 
 ## 🛠️Tech Stack🛠️
-<img src="https://img.shields.io/badge/JacaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
 
 
