@@ -2,7 +2,7 @@
 
 ## 🛠️Tech Stack🛠️
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-#61DAFB?style=flat&logo=react&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=react&logoColor=black"/>
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
