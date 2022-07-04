@@ -1,8 +1,9 @@
 **![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong%20Ji&animation=fadeIn&fontSize=100)**
 
 ## :bowtie:Profile
-Kyonggi university Artificial Intelligence&Computer Engineering 2020.03-2024.02
 2001.09.29
+
+Kyonggi university Artificial Intelligence&Computer Engineering 2020.03-2024.02
 
 ## 🛠️Tech Stack🛠️
 🔈Tech that I've used at least once
