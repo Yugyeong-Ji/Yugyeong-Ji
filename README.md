@@ -5,8 +5,6 @@
 
 Kyonggi university Artificial Intelligence&Computer Engineering 2020.03-2024.02
 
-멋사Xably externship frontend 1기 2021.12-2022.02
-
 
 ## 🛠️Tech Stack🛠️
 🔈Tech that I've used at least once
