@@ -3,8 +3,6 @@
 ## :bowtie:Profile
 2001.09.29
 
-Kyonggi university Artificial Intelligence&Computer Engineering 2020.03-2024.02
-
 
 ## 🛠️Tech Stack🛠️
 🔈Tech that I've used at least once
