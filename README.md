@@ -17,7 +17,7 @@
 
  <br/>
  
-#### :pencil2: Study log
+## :pencil2: Study log
    <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugyeong-Ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
