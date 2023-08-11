@@ -1,4 +1,4 @@
-**![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong%20Ji&animation=fadeIn&fontSize=100)**
+**![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong-Ji's%20Github%20Ji&animation=fadeIn&fontSize=100)**
 
 ## :bowtie:Profile
 2001.09.29
@@ -14,6 +14,17 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+
+ <br/>
+ 
+#### :pencil2: Study log
+ 
+  <br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@yugyeong_929)
+</div>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
