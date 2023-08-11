@@ -1,4 +1,4 @@
-**![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong-Ji'%20Ji&animation=fadeIn&fontSize=100)**
+**![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong-%20Ji&animation=fadeIn&fontSize=100)**
 
 ## :bowtie:Profile
 2001.09.29
@@ -20,7 +20,7 @@
 #### :pencil2: Study log
    <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugyeong_929&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugyeong-Ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929)
 </div>
