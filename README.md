@@ -3,7 +3,8 @@
 ## :bowtie:Profile
 2001.09.29
 
-
+![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%#ffc27b&title=GITHUB&edge_flat=false)](https://github.com/Yugyeong-Ji)
 
 
 <br/>
@@ -31,8 +32,7 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
 
-![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%#ffc27b&title=GITHUB&edge_flat=false)](https://github.com/Yugyeong-Ji)
+
 
 <!--
 **Yugyeong-Ji/Yugyeong-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
