@@ -35,12 +35,11 @@
 
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
-
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
 
 <!--
 **Yugyeong-Ji/Yugyeong-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
