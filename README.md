@@ -25,9 +25,8 @@
 ## :pencil2: Study log
 
    <br/>
-<span display: inline-block>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugyeong-Ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929) </span>
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929) 
 </div>
 
 
@@ -35,9 +34,10 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<span display: inline-block>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugyeong-Ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yugyeong-Ji&show_icons=true&theme=flag-india)
+</span>
 <!--
 **Yugyeong-Ji/Yugyeong-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
