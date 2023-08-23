@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugyeong-Ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929)
 </div>
