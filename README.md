@@ -25,8 +25,8 @@
 ## :pencil2: Study log
 
    <br/>
-<span> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929) 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mbtigram&color=dark)](https://velog.io/@mbtigram) </span>
+<span> 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://velog.io/@yugyeong_929)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mbtigram&color=dark)](https://velog.io/@mbtigram) </span>
 </div>
 
 
