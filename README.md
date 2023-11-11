@@ -22,7 +22,7 @@
 
  <br/>
 
-## sparkles: Research Interest
+## :sparkles: Research Interest
 
 - Data Science and Analytics
 - Recommendation system
