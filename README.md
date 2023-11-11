@@ -1,7 +1,9 @@
 **![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong-%20Ji&animation=fadeIn&fontSize=100)**
 
 ## :bowtie:Profile
-2001.09.29
+
+B. Sc in Computer Engineering, Mar 2020 to Feb 2024
+
 
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%#ffc27b&title=GITHUB&edge_flat=false)](https://github.com/Yugyeong-Ji)
