@@ -21,6 +21,12 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
 
  <br/>
+
+## sparkles: Research Interest
+
+- Data Science and Analytics
+- Recommendation system
+- HCI
  
 ## :pencil2: Study log
 
