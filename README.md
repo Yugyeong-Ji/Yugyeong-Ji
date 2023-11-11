@@ -27,7 +27,7 @@
 - Data Science and Analytics
 - Recommendation system
 - HCI
- 
+ <br/>
 ## :pencil2: Study log
 
    <br/>
