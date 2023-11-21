@@ -34,6 +34,7 @@ B. Sc in Computer Engineering, Mar 2020 to Feb 2024
 ## :pencil2: Study log
 
    <br/>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong.929&color=dark)](https://velog.io/@yugyeong.929)
 </div>
 
