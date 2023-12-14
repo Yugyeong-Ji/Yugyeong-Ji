@@ -40,11 +40,10 @@ B. Sc in Computer Engineering, Mar 2020 to Feb 2024
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@yugyeong_929">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/ api?name=yugyeong_929)](https://github.com/yugyeong_929/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929)](https://github.com/yugyeong_929/velog-readme-stats)
 </div>
 
 
