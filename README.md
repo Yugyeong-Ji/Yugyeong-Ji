@@ -42,7 +42,6 @@ B. Sc in Computer Engineering, Mar 2020 to Feb 2024
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yugyeong_929&color=dark)](https://github.com/Yugyeong-Ji/velog-readme-stats)
 
-
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=yugyeong_929)](https://velog.io/@yugyeong_929)
 
 </div>
