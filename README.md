@@ -1,4 +1,6 @@
-**![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&section=header&text=Yugyeong-%20Ji&animation=fadeIn&fontSize=100)**
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Yugyeong-Ji's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ## :bowtie:Profile
 
