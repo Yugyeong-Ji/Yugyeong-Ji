@@ -3,6 +3,8 @@
 
 ## :bowtie:Profile
 
+M. Sc in Computer Science and Engineering, Mar 2024 to present
+
 B. Sc in Computer Engineering, Mar 2020 to Feb 2024
 
 
