@@ -11,7 +11,7 @@
 
 <h5>M. Sc in Computer Science and Engineering, Mar 2024 to present</h5>
 
-<h5>B. S in Computer Engineering, Mar 2020 to Feb 2024</h5>
+<h5>B. Sc in Computer Engineering, Mar 2020 to Feb 2024</h5>
 
 
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
