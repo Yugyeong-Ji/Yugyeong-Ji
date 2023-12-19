@@ -7,7 +7,7 @@
 
 <h4>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h4>
 
-<hr>
+<br>
 
 <h5>M. Sc in Computer Science and Engineering, Mar 2024 to present</h5>
 
@@ -21,7 +21,7 @@
 <br/>
 
 ## 🛠️Tech Stack🛠️
-🔈<h4>Tech that I've used at least once...</h4>
+<h4>🔈Tech that I've used at least once...</h4>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
 
