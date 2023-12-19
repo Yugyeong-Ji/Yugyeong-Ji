@@ -1,7 +1,13 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Yugyeong-Ji's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
-## :bowtie:Profile
+## :bowtie:[Profile](https://sites.google.com/g.skku.edu/yugyeongji/%ED%99%88)
+
+I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.
+
+Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.
+
+
 
 M. Sc in Computer Science and Engineering, Mar 2024 to present
 
