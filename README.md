@@ -6,7 +6,7 @@
 <h4>I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.🎓</h4>
 
 <h4>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h4>
-<hr>
+
 
 
 <h5>M. Sc in Computer Science and Engineering, Mar 2024 to present</h5>
@@ -35,9 +35,9 @@
 
 ## :sparkles: Research Interest
 
-- Data Science and Analytics
-- Recommendation system
-- HCI
+- <h4>Data Science and Analytics</h4>
+- <h4>Recommendation system</h4>
+
  <br/>
  
 ## :pencil2: Study log
