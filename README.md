@@ -3,11 +3,10 @@
 
 ## :bowtie:[Profile](https://sites.google.com/g.skku.edu/yugyeongji/%ED%99%88)
 
-<h6>I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.🎓</h6>
+<h5>I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.🎓</h5>
 
-<h6>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h6>
-<hr>
-
+<h5>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h5>
+<br/>
 
 
 M. Sc in Computer Science and Engineering, Mar 2024 to present
