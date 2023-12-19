@@ -6,7 +6,7 @@
 <h5>I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.🎓</h5>
 
 <h5>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h5>
-<br/>
+<hr/>
 
 
 M. Sc in Computer Science and Engineering, Mar 2024 to present
