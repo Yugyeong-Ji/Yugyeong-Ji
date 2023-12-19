@@ -5,7 +5,7 @@
 
 <h4>I'm a M.S. student in Department of  Computer Science and Engineering at Sungkyunkwan University.🎓</h4>
 
-<h4>Also, I am a member of [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by Prof. Eunil Park.👩‍💻</h4>
+<h4>Also, I am a member of Data eXperience Lab, advised by Prof. Eunil Park.👩‍💻</h4>
 
 <br>
 
