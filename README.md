@@ -35,7 +35,7 @@
 
 ## :sparkles: Research Interest
 
-- <h4>Data Science and Analytics</h4>
+- <h4>Data Science and Analysis</h4>
 - <h4>Recommendation system</h4>
 
  <br/>
