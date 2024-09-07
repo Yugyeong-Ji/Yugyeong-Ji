@@ -30,6 +30,11 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/
+          Docker-2496ED
+          ?style=flat
+          &logo=Docker
+          &logoColor=white"/> 
 
  <br/>
 
