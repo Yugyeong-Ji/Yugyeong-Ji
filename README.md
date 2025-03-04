@@ -15,7 +15,7 @@
 
 <h5>B. Sc in Computer Engineering, Mar 2020 to Feb 2024</h5>
 
-<h5>Visiting Scholar in Artificail Intelligence & Data Science, Jul 2024 to Aug 2024 (University of Southern California)</h5>
+<h5>Visiting Scholar in Artificial Intelligence & Data Science, Jul 2024 to Aug 2024 (University of Southern California)</h5>
 
 
 ![](https://img.shields.io/github/followers/Yugyeong-Ji?style=social)
