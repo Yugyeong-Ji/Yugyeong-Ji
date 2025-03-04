@@ -42,9 +42,9 @@
 
 ## :sparkles: Research Interest
 
-- <h4>Data Science and Analysis</h4>
+- <h4>Multimodal</h4>
 - <h4>NLP</h4>
-- <h4>Recommendation system</h4>
+- <h4>LLM</h4>
 
  <br/>
  
